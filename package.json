@@ -1,0 +1,21 @@
+{
+  "name": "upload",
+  "version": "1.0.0",
+  "description": "webUpload ",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "multiparty": "^4.1.2",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "upload"
+  ],
+  "author": "javan",
+  "license": "ISC"
+}
